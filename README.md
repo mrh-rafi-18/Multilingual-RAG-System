@@ -4,7 +4,7 @@ This project requires a **Groq API key** to function properly.
 
 Before running the notebook or using the system, please:
 
-1. Obtain your own Groq API key by signing up at [Groq's website](https://groq.com/).
+1. Obtain your own Groq API key by signing up at [Groq's website](https://console.groq.com/keys).
 2. Set the API key as an environment variable.(U will find a cell where u can paste the api key)
 
 Without a valid API key, the system’s core language model functionality **will not work**.
