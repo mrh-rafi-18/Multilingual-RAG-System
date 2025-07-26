@@ -1,3 +1,17 @@
+# ⚠️ Important: Groq API Key Required
+
+This project requires a **Groq API key** to function properly.
+
+Before running the notebook or using the system, please:
+
+1. Obtain your own Groq API key by signing up at [Groq's website](https://groq.com/).
+2. Set the API key as an environment variable.(U will find a cell where u can paste the api key)
+
+Without a valid API key, the system’s core language model functionality **will not work**.
+
+
+---
+
 # 📚 Multilingual Retrieval-Augmented Generation (RAG) System
 
 A simple, notebook-based system that allows users to upload a Bangla/English PDF, extract cleaned text using OCR, semantically embed it, and ask questions using a multilingual LLM-powered API (GROQ LLaMA 4).
