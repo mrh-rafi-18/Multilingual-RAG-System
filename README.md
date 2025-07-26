@@ -50,12 +50,9 @@ A simple, notebook-based system that allows users to upload a Bangla/English PDF
 
 ## 📋 Sample Queries and Outputs (Bangla & English)
 
-Below are some example queries with corresponding outputs from the system, shown in screenshots:
+![Screenshot 2025-07-26 191827](images/Screenshot%202025-07-26%20191827.png)
+![Screenshot 2025-07-26 191845](images/Screenshot%202025-07-26%20191845.png)
+![Screenshot 2025-07-26 191918](images/Screenshot%202025-07-26%20191918.png)
+![Screenshot 2025-07-26 191933](images/Screenshot%202025-07-26%20191933.png)
+![Screenshot 2025-07-26 191950](images/Screenshot%202025-07-26%20191950.png)
 
-| Screenshot                                      | Description               |
-|------------------------------------------------|---------------------------|
-| ![Sample Query code](images/Screenshot 2025-07-26 191845.png) | Example Bangla query result 1 |
-| ![Sample Query 2](images/Screenshot%202025-07-26%20191845.png) | Example Bangla query result 2 |
-| ![Sample Query 3](images/Screenshot%202025-07-26%20191918.png) | Example English query result 1 |
-| ![Sample Query 4](images/Screenshot%202025-07-26%20191933.png) | Example English query result 2 |
-| ![Sample Query 5](images/Screenshot%202025-07-26%20191950.png) | More query examples         |
